@@ -1,5 +1,7 @@
 # Dash Sample Apps 
 
+This repo as a problem with implementation , TODO
+
 [![CircleCI](https://circleci.com/gh/plotly/dash-sample-apps.svg?style=svg)](https://circleci.com/gh/plotly/dash-sample-apps)
 
 This repository hosts the code for over 100 open-source Dash apps written in Python or R. They can serve as a starting point for your own Dash app, as a learning tool to better understand how Dash works, as a reusable templates, and much more.
